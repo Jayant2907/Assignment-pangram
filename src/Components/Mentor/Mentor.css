@@ -1,0 +1,14 @@
+.mentor {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: fit-content;
+  width: 60%;
+}
+.projectcards {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

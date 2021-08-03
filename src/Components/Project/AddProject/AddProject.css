@@ -1,0 +1,12 @@
+add-project {
+  width: 50%;
+  padding: 2rem;
+  /* background-color: red; */
+}
+.project {
+  width: 100%;
+}
+.addtask {
+  background-color: blanchedalmond;
+  padding: 1rem;
+}

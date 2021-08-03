@@ -1,0 +1,16 @@
+.AddProjectCard {
+  border-radius: 10px !important;
+  background-color: #08090c !important;
+  color: white !important;
+  width: 250px !important;
+  height: 150px !important;
+  margin: 10px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.AddProjectCard > h3 {
+  font-size: 24px;
+}
